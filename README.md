@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **ShuaybSaid21/ShuaybSaid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +22,4 @@ LinkedIn: https://www.linkedin.com/in/shuayb-said-b40981274/
 - 😄 Pronouns: He/Him/His
 
 - ⚡ Fun fact: I first discovered my love for electronics in a middle school “Flight Space Electronics” class — now, I’m on a path to design communication systems that bridge space, optics, and RF engineering. 
--->
+

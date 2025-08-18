@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: Satellite communication systems (DVB-S2/X, DSSS, multi-antenna beamforming), Silicon photonics device integration and optical transceivers, RF hardware testing (signal generators, spectrum analyzers, VNAs), Advanced DSP for multi-rate filtering, FFT optimization, and modem design
 
-- 👯 I’m looking to collaborate on: Satellite payload architecture and SDR-based communication systems, Open-source silicon photonics design projects, and PCB designs for RF, high-speed, or mixed-signal systems
+- 👯 I’m looking to collaborate on: Satellite payload architecture and SDR-based communication systems, and PCB designs for RF, high-speed, or mixed-signal systems. During my sophomore year, I worked in the NASA Space Grant Consortium Rocket Project wherein I calculated the acceleration of the rocket upon launch using numerical integration techniques. With these parameters, I then calculated the velocity using sensor measurements. I estimated the differential and integration of the rocket using the derived equations. The AIM USB payload was then used to measure and compare the rocket altitude upon launch.
 
 - 🤔 I’m looking for help with: Industry best practices for RF system design & budgeting and Optimizing optical/RF co-design for high-performance communications
 

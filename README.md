@@ -4,7 +4,7 @@
 **ShuaybSaid21/ShuaybSaid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on: Leading Society of Optics and Photonics (SOP) Student Chapter this coming Fall Semester workshops and technical projects, Designing and fabricating PCBs for embedded and RF systems, Learning Vivado HLS for FPGA-based DSP acceleration, and Experimenting with optical and RF test setups for research and lab projects
+- 🔭 I’m currently working on: Leading Society of Optics and Photonics (SOP) Student Chapter this coming Fall Semester workshops and technical projects, Designing and fabricating PCBs for RF systems, Learning Vivado HLS for FPGA-based DSP acceleration, and Experimenting with optical and RF test setups for research and lab projects
 
 - 🌱 I’m currently learning: Satellite communication systems (DVB-S2/X, DSSS, multi-antenna beamforming), Silicon photonics device integration and optical transceivers, RF hardware testing (signal generators, spectrum analyzers, VNAs), Advanced DSP for multi-rate filtering, FFT optimization, and modem design
 
